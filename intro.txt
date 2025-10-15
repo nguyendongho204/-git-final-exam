@@ -1,0 +1,5 @@
+Tôi là Nguyễn Dong Ho, sinh viên ngành CNTT.
+Tôi thích khám phá công nghệ mới.
+Tôi yêu thích lập trình, đọc sách và đi du lịch.
+Sở thích: Lập trình, đọc sách, du lịch.
+Kỹ năng: Python, Git, Tiếng Anh.
