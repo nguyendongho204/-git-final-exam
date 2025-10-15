@@ -22,6 +22,7 @@ Kế hoạch học tập trong 1 tuần:
 
 \- Tìm thêm tài liệu nâng cao để mở rộng kiến thức.
 
+<<<<<<< Updated upstream
 \- Ôn lại kiến thức Git mỗi ngày.
 
 \- Thực hành tạo branch và merge.
@@ -29,6 +30,11 @@ Kế hoạch học tập trong 1 tuần:
 \- Ghi chú các lệnh Git thường dùng.
 
 \- Chuẩn bị cho bài kiểm tra cuối kỳ.
+=======
+\- Tìm hiểu GitHub Actions.
+
+\- Tạo tag và release trên GitHub.
+>>>>>>> Stashed changes
 
 
 
