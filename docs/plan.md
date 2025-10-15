@@ -22,11 +22,19 @@ Kế hoạch học tập trong 1 tuần:
 
 \- Tìm thêm tài liệu nâng cao để mở rộng kiến thức.
 
+\- Ôn lại kiến thức Git mỗi ngày.
+
+\- Thực hành tạo branch và merge.
+
+\- Ghi chú các lệnh Git thường dùng.
+
+\- Chuẩn bị cho bài kiểm tra cuối kỳ.
 
 
-Ngày bắt đầu: 15/10/2025  
+
+
+
+Ngày bắt đầu: 15/10/2025
 
 Ngày kết thúc: 21/10/2025
-
-
 
