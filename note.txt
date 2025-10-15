@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Dễ dàng theo dõi lịch sử thay đổi.
 - Hỗ trợ làm việc nhóm chuyên nghiệp.
+- Có thể quay lại trạng thái trước đó dễ dàng.
+- Tích hợp tốt với GitHub và CI/CD.
